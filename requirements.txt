@@ -1,0 +1,5 @@
+Используемыме библиотеки:
+	sqlite3
+	sys
+	PyQt5
+	PyQt5.QtWidgets
